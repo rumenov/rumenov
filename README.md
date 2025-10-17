@@ -1,5 +1,5 @@
 ## 👋 About Me
-Distributed systems engineer focused on large-scale, fault-tolerant infrastructure in Rust and C++.
+Distributed systems engineer focused on large-scale, fault-tolerant infrastructure in Rust.
 
 ---
 

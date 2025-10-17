@@ -4,7 +4,7 @@ Distributed computer systems engineer. Rust expert. Interested in quantum comput
 ## 💼 Experience
 
 **Qube Research and Technologies** — Zurich  
-*Quantitative Technology Director* • *Mar 2025 – Present*
+*Quantitative Technology Director* • *Mar 2025 – Present*  
 Building distributed systems in Rust.
 
 **Dfinity** — Zurich  

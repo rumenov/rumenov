@@ -1,7 +1,5 @@
 ## 👋 About Me
-Distributed systems engineer focused on large-scale, fault-tolerant infrastructure in Rust.
-
----
+Experienced distributed computer systems engineer. focused on large-scale, fault-tolerant infrastructure in Rust.
 
 ## 💼 Experience
 
@@ -18,5 +16,10 @@ Developed Google Search infrastructure: low-latency indexing on Spanner and imag
 
 ## 🎓 Education
 
-**Massachusetts Institute of Technology (MIT)** — Cambridge, MA  
-*B.S. in Mathematics with Computer Science* • *Class of 2011*
+**MIT** — B.S. in Mathematics with Computer Science (2011)
+
+## 🏆 Awards
+
+- **ACM ICPC World Finals** — Honorable Mention (2011)  
+- **IOI** — Gold (2007), Gold + Special Award (2006), Silver (2005)
+

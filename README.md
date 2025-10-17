@@ -1,18 +1,19 @@
 ## 👋 About Me
-Experienced distributed computer systems engineer. focused on large-scale, fault-tolerant infrastructure in Rust.
+Distributed computer systems engineer. Rust expert. Interested in quantum computing.
 
 ## 💼 Experience
 
 **Qube Research and Technologies** — Zurich  
 *Quantitative Technology Director* • *Mar 2025 – Present*
+Building distributed systems in Rust.
 
 **Dfinity** — Zurich  
 *Staff Software Engineer, Team Lead* • *Jan 2021 – Jan 2025*  
-Led the Networking team building the Internet Computer’s QUIC-based P2P layer.
+Led the Networking team building the Internet Computer’s P2P layer in Rust.
 
 **Google** — Zurich  
 *Senior Software Engineer* • *Oct 2011 – Dec 2020*  
-Developed Google Search infrastructure: low-latency indexing on Spanner and image pipelines on Bigtable/Percolator.
+Developed Google Search infrastructure in C++.
 
 ## 🎓 Education
 

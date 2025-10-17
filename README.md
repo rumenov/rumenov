@@ -1,18 +1,22 @@
-# About Me
-Large-scale distributed computer systems engineer.
+## 👋 About Me
+Distributed systems engineer focused on large-scale, fault-tolerant infrastructure in Rust and C++.
 
-# Experience
+---
 
-### Qube Research and Technologies — Zurich, Switzerland
-**Quantitative Technology Director**  
-*03/2025 – present*  
+## 💼 Experience
 
-### Dfinity — Zurich, Switzerland
-**Staff Software Engineer, Team Lead**   
-*01/2021 – 01/2025*  
-Led the Networking/P2P team in designing the Internet Computer Protocol’s P2P layer in Rust, built on QUIC transport, providing eventual consistency for Byzantine fault-tolerant distributed systems.
+**Qube Research and Technologies** — Zurich  
+*Quantitative Technology Director* • *Mar 2025 – Present*
 
-### Google — Zurich, Switzerland
-**Senior Software Engineer L5** 
-*10/2011 – 12/2020*  
-Built Google Search infrastructure in C++, including low-latency indexing on Spanner and large-scale image pipelines on Bigtable/Percolator.
+**Dfinity** — Zurich  
+*Staff Software Engineer, Team Lead* • *Jan 2021 – Jan 2025*  
+Led the Networking team building the Internet Computer’s QUIC-based P2P layer.
+
+**Google** — Zurich  
+*Senior Software Engineer* • *Oct 2011 – Dec 2020*  
+Developed Google Search infrastructure: low-latency indexing on Spanner and image pipelines on Bigtable/Percolator.
+
+## 🎓 Education
+
+**Massachusetts Institute of Technology (MIT)** — Cambridge, MA  
+*B.S. in Mathematics with Computer Science* • *Class of 2011*

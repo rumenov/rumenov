@@ -1,25 +1,17 @@
-## 👋 About Me
-Distributed computer systems engineer. Rust expert. Interested in quantum computing.
+### 👋 About Me
+Distributed computer systems engineer and Rust expert. Interested in quantum computing.
 
-## 💼 Experience
+### 💼 Technical Contributions
 
-**Qube Research and Technologies** — Zurich  
-*Quantitative Technology Director* • *Mar 2025 – Present*  
-Building distributed systems in Rust.
+-  *03/2025 – present*  • [**Qube**](https://www.qube-rt.com) Data (Rust)
+-  *01/2021 – 01/2025* • P2P layer of the [**Internet Computer Protocol**](https://dl.acm.org/doi/10.1145/3519270.3538430) (Rust)
+-  *10/2011 – 12/2020* • [**Google**](www.google.com) Search Infrastructure (C++)
 
-**Dfinity** — Zurich  
-*Staff Software Engineer, Team Lead* • *Jan 2021 – Jan 2025*  
-Led the Networking team building the Internet Computer’s P2P layer in Rust.
+### 🎓 Education
 
-**Google** — Zurich  
-*Senior Software Engineer* • *Oct 2011 – Dec 2020*  
-Developed Google Search infrastructure in C++.
+**MIT** — B.S. in Mathematics with Computer Science (2007-2011)
 
-## 🎓 Education
-
-**MIT** — B.S. in Mathematics with Computer Science (2011)
-
-## 🏆 Awards
+### 🏆 Awards
 
 - **ACM ICPC World Finals** — Honorable Mention (2011)  
 - **IOI** — Gold (2007), Gold + Special Award (2006), Silver (2005)

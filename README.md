@@ -5,7 +5,7 @@ Distributed computer systems engineer and Rust expert. Interested in quantum com
 
 -  *03/2025 – present* • [**Qube**](https://www.qube-rt.com) Data (Rust)
 -  *01/2021 – 01/2025* • [**Internet Computer Protocol**](https://dl.acm.org/doi/10.1145/3519270.3538430) P2P layer (Rust)
--  *10/2011 – 12/2020* • [**Google**](www.google.com) Search Infrastructure (C++)
+-  *10/2011 – 12/2020* • [**Google**](https://www.google.com) Search Infrastructure (C++)
 
 ### 🎓 Education
 

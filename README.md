@@ -9,10 +9,10 @@ Distributed computer systems engineer and Rust expert. Interested in quantum com
 
 ### 🎓 Education
 
-**MIT** — B.S. in Mathematics with Computer Science (2007-2011)
+[**MIT**](https://www.mit.edu) — B.S. in Mathematics with Computer Science (2007-2011)
 
 ### 🏆 Awards
 
-- **ACM ICPC World Finals** — Honorable Mention (2011)  
-- **IOI** — Gold (2007), Gold + Special Award (2006), Silver (2005)
+- [**ACM ICPC World Finals**](https://icpc.global) — Honorable Mention (2011)  
+- [**IOI**](https://ioinformatics.org) — Gold (2007), Gold + Special Award (2006), Silver (2005)
 
